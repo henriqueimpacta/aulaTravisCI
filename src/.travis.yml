@@ -1,0 +1,7 @@
+language: python
+python:
+- "3.4"
+bafeore_script:
+- cd src
+script:
+- python testes.py
